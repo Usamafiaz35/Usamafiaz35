@@ -1,61 +1,134 @@
-<h1 align="center">Hi 👋, I'm Usama Fiaz</h1>
-<h3 align="center">🚀 AI Engineer | Agentic AI Builder | Automation Architect</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Agentic+AI+Systems;LLM+%7C+RAG+%7C+LangGraph+Expert;Automation+with+n8n;Full+Stack+AI+Developer;Turning+Ideas+into+Intelligent+Systems" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:1E90FF&height=200&section=header&text=Usama%20Fiaz&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20AI%20Builder%20%7C%20Automation%20Architect&descAlignY=58&descSize=18"/>
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=🤖+Building+Agentic+AI+Systems;🧠+LLM+%7C+RAG+%7C+LangGraph+Expert;⚡+Automation+Architect+with+n8n;🚀+Turning+Ideas+into+Intelligent+Systems;🔗+Full+Stack+AI+Developer" />
 </p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Usamafiaz35&label=Profile+Views&color=00F7FF&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Usamafiaz35?label=Followers&style=flat-square&color=1E90FF" alt="followers" />
+</p>
+
+</div>
 
 ---
 
 ## 🧠 About Me
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name        = "Usama Fiaz"
+        self.role        = "Agentic AI Builder & Automation Architect"
+        self.location    = "Pakistan 🇵🇰"
+        self.email       = "usamafiaz35@gmail.com"
 
-- 🔭 Building **Agentic AI systems** and autonomous workflows  
-- 🧩 Working with **LangChain, LangGraph & RAG pipelines**  
-- 🤖 Developing **LLM-powered applications**  
-- 🔗 Creating AI automations using **n8n**  
-- 🚀 Focused on production-ready AI architectures  
+    @property
+    def currently_building(self):
+        return [
+            "🤖 Agentic AI systems with LangGraph & LangChain",
+            "🧩 Production RAG pipelines",
+            "⚡ n8n-based intelligent automations",
+            "🔗 LLM-powered backend applications",
+        ]
+
+    @property
+    def vision(self):
+        return "Building AI agents that think, act & automate like digital employees."
+
+me = AIEngineer()
+print(me.vision)
+` ` `
 
 ---
 
 ## ⚙️ Tech Stack
 
 ### 🧠 AI & ML
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-1E90FF?style=for-the-badge"/>
-</p>
+
+
+
+
+
+
+
+
+
 
 ### 🔗 Automation & Backend
-<p>
-<img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+
+
+
+
+
+
+
+
+### 🗄️ Vector DBs & Storage
+
+
+
+
+
+
+
+---
+
+## 🚀 What I Build
+
+| 🧩 Domain | 💡 What I Create |
+|---|---|
+| **Agentic AI** | Multi-agent systems, autonomous task runners, tool-calling agents |
+| **RAG Pipelines** | Document ingestion, vector search, context-aware LLM responses |
+| **Automation** | n8n workflows, API integrations, end-to-end business automations |
+| **LLM Apps** | Chatbots, AI assistants, structured output systems |
+| **Backend APIs** | FastAPI services powering AI-driven products |
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Usamafiaz35&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Usamafiaz35&theme=tokyonight" />
-</p>
+
+  
+  
+
+
+
+  
+
+
+
+  
+
+
+---
+
+## 🏆 GitHub Trophies
+
+
+  
+
+
+---
+
+## 💡 Currently Exploring
+
+- 🔬 **Multi-Agent Orchestration** — LangGraph stateful workflows
+- 🧪 **Advanced RAG** — HyDE, re-ranking, hybrid search
+- 🌐 **MCP (Model Context Protocol)** — Extending LLM tool use
+- 📦 **AI Microservices** — Dockerized, production-ready LLM backends
 
 ---
 
 ## 🎯 Vision
 
-> Building intelligent AI agents that think, act, and automate like digital employees.
+> *"Building intelligent AI agents that think, act, and automate like digital employees —*  
+> *replacing repetitive human tasks with autonomous, reliable AI systems."*
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: usamafiaz35@gmail.com  
-💼 Open for AI collaborations & automation projects  
 
----
+💼 Open for AI collaborations, freelance projects & automation consulting
